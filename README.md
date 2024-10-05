@@ -1,10 +1,6 @@
-![8](https://github.com/user-attachments/assets/ae572d07-f326-4d27-949c-d495e0333f9e)<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Abhijit Patil</h1>
-
+![8](https://github.com/user-attachments/assets/ae572d07-f326-4d27-949c-d495e0333f9e)<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Anant Garg</h1>
 
 ![Header Image](https://github.com/user-attachments/assets/792d1cbc-10f7-42b0-ad99-f56d92dd2721)
-
-
-
 
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
 Currently a B.Tech student at IIIT Sri City. I'm all about tech, creativity, and a good movie night. Outside of coding, I enjoy exploring new hobbies and staying curious.
