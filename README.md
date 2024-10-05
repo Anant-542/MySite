@@ -1,5 +1,12 @@
 <h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Anant Garg</h1>
 
+
+
+
+
+
+
+
 ![Header Image](https://github.com/user-attachments/assets/792d1cbc-10f7-42b0-ad99-f56d92dd2721)
 
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
