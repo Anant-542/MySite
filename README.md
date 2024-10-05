@@ -2,7 +2,7 @@
 
 
 ![Header Image](![8](https://in.images.search.yahoo.com/images/view;_ylt=AwrKFbW6RAFnDNoLMQy9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2VkYmYwZDJmNWYyZjAwNTgwMDA5YjM2ZjMxMzg5ZTk2BGdwb3MDMTcEaXQDYmluZw--?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dluffy%26type%3DE211IN826G91842%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D17&w=3507&h=2790&imgurl=images.wallpapersden.com%2Fimage%2Fdownload%2Fgear-5-monkey-d-luffy-art-one-piece_bWppZ2WUmZqaraWkpJRoamVsrWdsbmU.jpg&rurl=https%3A%2F%2Fwallpapersden.com%2Fgear-5-monkey-d-luffy-art-one-piece-wallpaper%2F2450x1440%2F&size=1994KB&p=luffy&oid=edbf0d2f5f2f00580009b36f31389e96&fr2=piv-web&fr=mcafee&tt=2450x1440+Resolution+Gear+5+Monkey+D.+Luffy+Art+One+Piece+2450x1440+...&b=0&ni=21&no=17&ts=&tab=organic&sigr=UTdDo7hwVvoV&sigb=ZuWyr9KjDWrV&sigi=Z3Sfk7e3.bt_&sigt=1UP.nbvjpWKL&.crumb=INr6cX/rVOU&fr=mcafee&fr2=piv-web&type=E211IN826G91842)
-
+)
 
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
 Currently a B.Tech student at IIIT Sri City. I'm all about tech, creativity, and a good movie night. Outside of coding, I enjoy exploring new hobbies and staying curious.
