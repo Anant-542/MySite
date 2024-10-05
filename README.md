@@ -1,4 +1,4 @@
-![8](https://github.com/user-attachments/assets/ae572d07-f326-4d27-949c-d495e0333f9e)<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Anant Garg</h1>
+<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Anant Garg</h1>
 
 ![Header Image](https://github.com/user-attachments/assets/792d1cbc-10f7-42b0-ad99-f56d92dd2721)
 
